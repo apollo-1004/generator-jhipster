@@ -37,3 +37,5 @@ nbbuild/
 nbdist/
 .nb-gradle/
 generators/**/package-lock.json
+
+AUTO_HISTORY.txt
