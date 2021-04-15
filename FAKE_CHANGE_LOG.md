@@ -4,3 +4,4 @@
 2021-04-14 08:04:03 +0000 - Added support for webhooks
 2021-04-14 13:15:06 +0000 - Added support for user avatars
 2021-04-14 16:00:35 +0000 - Updated error messages for clarity
+2021-04-15 11:37:07 +0000 - Refactored JavaScript code for better modularity
