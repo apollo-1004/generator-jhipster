@@ -10,3 +10,4 @@
 2021-04-15 18:36:33 +0000 - Removed deprecated code
 2021-04-16 19:56:40 +0000 - Optimized performance of sorting algorithm
 2021-04-16 12:35:33 +0000 - Refactored database queries
+2021-04-16 16:38:10 +0000 - Refactored error handling logic
