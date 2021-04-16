@@ -8,3 +8,4 @@
 2021-04-15 11:52:38 +0000 - Added support for internationalization
 2021-04-15 08:15:08 +0000 - Fixed issue with memory
 2021-04-15 18:36:33 +0000 - Removed deprecated code
+2021-04-16 19:56:40 +0000 - Optimized performance of sorting algorithm
