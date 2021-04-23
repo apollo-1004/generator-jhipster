@@ -14,3 +14,4 @@
 2021-04-17 19:56:48 +0000 - Fixed XSS vulnerability
 2021-04-18 09:44:44 +0000 - Updated configuration settings
 2021-04-18 09:31:02 +0000 - Fixed broken integration tests
+2021-04-23 11:04:50 +0000 - Fixed issue with timezone conversion
