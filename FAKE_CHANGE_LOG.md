@@ -24,3 +24,4 @@
 2021-05-04 10:24:15 +0000 - Fixed broken links in documentation
 2021-05-08 15:08:57 +0000 - Fixed race condition in concurrent processes
 2021-05-08 10:20:21 +0000 - Fixed bug in user session management
+2021-05-09 18:29:18 +0000 - Fixed XSS vulnerability
