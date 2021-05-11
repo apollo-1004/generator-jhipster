@@ -28,3 +28,4 @@
 2021-05-09 10:28:04 +0000 - Implemented RESTful API endpoints
 2021-05-09 19:02:47 +0000 - Fixed memory leak issue
 2021-05-10 17:58:33 +0000 - Refactored code to adhere to PEP 8 guidelines
+2021-05-11 18:40:07 +0000 - Added support for file uploads
