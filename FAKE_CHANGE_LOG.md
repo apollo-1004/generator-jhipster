@@ -35,3 +35,4 @@
 2021-05-12 18:06:30 +0000 - Refactored code for better readability
 2021-05-12 12:17:14 +0000 - Implemented search functionality
 2021-05-13 12:42:54 +0000 - Removed deprecated code
+2021-05-14 17:33:57 +0000 - Resolved compatibility issues with Python 3.9
