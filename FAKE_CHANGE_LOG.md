@@ -38,3 +38,4 @@
 2021-05-14 17:33:57 +0000 - Resolved compatibility issues with Python 3.9
 2021-05-18 12:24:43 +0000 - Refactored code to adhere to PEP 8 guidelines
 2021-05-20 13:48:07 +0000 - Fixed issue with file permissions
+2021-05-20 11:24:33 +0000 - Refactored code to adhere to PEP 8 guidelines
