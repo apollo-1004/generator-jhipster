@@ -39,3 +39,4 @@
 2021-05-18 12:24:43 +0000 - Refactored code to adhere to PEP 8 guidelines
 2021-05-20 13:48:07 +0000 - Fixed issue with file permissions
 2021-05-20 11:24:33 +0000 - Refactored code to adhere to PEP 8 guidelines
+2021-05-20 10:40:33 +0000 - Refactored CSS for improved styling
