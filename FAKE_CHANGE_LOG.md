@@ -42,3 +42,4 @@
 2021-05-20 10:40:33 +0000 - Refactored CSS for improved styling
 2021-05-22 18:49:43 +0000 - Refactored JavaScript code for better modularity
 2021-05-22 14:12:20 +0000 - Implemented client-side pagination
+2021-05-22 12:43:09 +0000 - Fixed issue with timezone conversion
