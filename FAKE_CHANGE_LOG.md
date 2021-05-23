@@ -45,3 +45,4 @@
 2021-05-22 12:43:09 +0000 - Fixed issue with timezone conversion
 2021-05-22 18:34:59 +0000 - Fixed issue with infinite loop in algorithm
 2021-05-23 18:05:32 +0000 - Fixed issue with file permissions
+2021-05-23 19:01:15 +0000 - Removed deprecated code
