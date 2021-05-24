@@ -48,3 +48,4 @@
 2021-05-23 19:01:15 +0000 - Removed deprecated code
 2021-05-24 13:55:07 +0000 - Removed deprecated code
 2021-05-24 15:45:15 +0000 - Resolved compatibility issues with Python 3.9
+2021-05-24 17:27:11 +0000 - Updated third-party libraries
