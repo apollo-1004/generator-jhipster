@@ -54,3 +54,4 @@
 2021-05-26 14:15:41 +0000 - Fixed bug in user session management
 2021-05-26 17:35:27 +0000 - Fixed issue with file downloads
 2021-05-26 12:58:52 +0000 - Added support for custom themes
+2021-05-30 20:58:48 +0000 - Updated error messages for clarity
