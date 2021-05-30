@@ -56,3 +56,4 @@
 2021-05-26 12:58:52 +0000 - Added support for custom themes
 2021-05-30 20:58:48 +0000 - Updated error messages for clarity
 2021-05-30 08:33:58 +0000 - Added logging for debugging purposes
+2021-05-30 20:15:04 +0000 - Added support for custom themes
