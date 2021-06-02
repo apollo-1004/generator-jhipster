@@ -61,3 +61,4 @@
 2021-06-01 14:24:08 +0000 - Removed deprecated code
 2021-06-01 08:30:12 +0000 - Added support for user avatars
 2021-06-02 12:31:01 +0000 - Added support for user avatars
+2021-06-02 14:31:50 +0000 - Fixed memory leak issue
