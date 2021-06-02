@@ -62,3 +62,4 @@
 2021-06-01 08:30:12 +0000 - Added support for user avatars
 2021-06-02 12:31:01 +0000 - Added support for user avatars
 2021-06-02 14:31:50 +0000 - Fixed memory leak issue
+2021-06-02 09:02:15 +0000 - Implemented email verification for user registration
