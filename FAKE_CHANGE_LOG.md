@@ -64,3 +64,4 @@
 2021-06-02 14:31:50 +0000 - Fixed memory leak issue
 2021-06-02 09:02:15 +0000 - Implemented email verification for user registration
 2021-06-08 15:17:18 +0000 - Added support for OAuth authentication
+2021-06-08 09:59:42 +0000 - Fixed security vulnerability
