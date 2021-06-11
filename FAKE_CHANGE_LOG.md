@@ -67,3 +67,4 @@
 2021-06-08 09:59:42 +0000 - Fixed security vulnerability
 2021-06-08 15:56:14 +0000 - Added support for dark mode
 2021-06-11 19:41:15 +0000 - Updated error messages for clarity
+2021-06-11 08:14:30 +0000 - Added support for dark mode
