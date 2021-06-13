@@ -69,3 +69,4 @@
 2021-06-11 19:41:15 +0000 - Updated error messages for clarity
 2021-06-11 08:14:30 +0000 - Added support for dark mode
 2021-06-13 15:20:34 +0000 - Implemented client-side validation for forms
+2021-06-13 12:12:47 +0000 - Fixed issue with file downloads
