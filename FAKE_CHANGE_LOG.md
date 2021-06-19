@@ -74,3 +74,4 @@
 2021-06-17 16:50:07 +0000 - Added support for error reporting
 2021-06-19 14:02:40 +0000 - Updated documentation with examples
 2021-06-19 14:40:40 +0000 - Refactored code for better readability
+2021-06-19 19:21:53 +0000 - Added unit tests for authentication module
