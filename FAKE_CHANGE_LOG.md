@@ -75,3 +75,4 @@
 2021-06-19 14:02:40 +0000 - Updated documentation with examples
 2021-06-19 14:40:40 +0000 - Refactored code for better readability
 2021-06-19 19:21:53 +0000 - Added unit tests for authentication module
+2021-06-19 11:38:59 +0000 - Refactored error handling logic
