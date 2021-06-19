@@ -72,3 +72,4 @@
 2021-06-13 12:12:47 +0000 - Fixed issue with file downloads
 2021-06-17 19:31:02 +0000 - Fixed issue with file permissions
 2021-06-17 16:50:07 +0000 - Added support for error reporting
+2021-06-19 14:02:40 +0000 - Updated documentation with examples
