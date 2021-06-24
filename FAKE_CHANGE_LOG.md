@@ -77,3 +77,4 @@
 2021-06-19 19:21:53 +0000 - Added unit tests for authentication module
 2021-06-19 11:38:59 +0000 - Refactored error handling logic
 2021-06-20 14:27:06 +0000 - Added support for user avatars
+2021-06-24 16:45:20 +0000 - Added support for OAuth authentication
