@@ -82,3 +82,4 @@
 2021-06-26 09:22:22 +0000 - Added support for dark mode
 2021-06-26 16:29:25 +0000 - Fixed issue with database connection pooling
 2021-06-26 08:20:02 +0000 - Resolved compatibility issues with Python 3.9
+2021-06-26 12:53:28 +0000 - Fixed issue with CSRF protection
