@@ -80,3 +80,4 @@
 2021-06-24 16:45:20 +0000 - Added support for OAuth authentication
 2021-06-24 19:02:34 +0000 - Updated error messages for clarity
 2021-06-26 09:22:22 +0000 - Added support for dark mode
+2021-06-26 16:29:25 +0000 - Fixed issue with database connection pooling
