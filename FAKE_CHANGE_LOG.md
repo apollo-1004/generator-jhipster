@@ -79,3 +79,4 @@
 2021-06-20 14:27:06 +0000 - Added support for user avatars
 2021-06-24 16:45:20 +0000 - Added support for OAuth authentication
 2021-06-24 19:02:34 +0000 - Updated error messages for clarity
+2021-06-26 09:22:22 +0000 - Added support for dark mode
