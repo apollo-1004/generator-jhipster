@@ -81,3 +81,4 @@
 2021-06-24 19:02:34 +0000 - Updated error messages for clarity
 2021-06-26 09:22:22 +0000 - Added support for dark mode
 2021-06-26 16:29:25 +0000 - Fixed issue with database connection pooling
+2021-06-26 08:20:02 +0000 - Resolved compatibility issues with Python 3.9
