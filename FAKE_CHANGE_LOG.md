@@ -85,3 +85,4 @@
 2021-06-26 12:53:28 +0000 - Fixed issue with CSRF protection
 2021-06-30 13:39:19 +0000 - Added error handling for edge case
 2021-07-02 14:27:27 +0000 - Added logging for debugging purposes
+2021-07-02 15:41:45 +0000 - Fixed broken links in documentation
