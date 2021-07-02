@@ -84,3 +84,4 @@
 2021-06-26 08:20:02 +0000 - Resolved compatibility issues with Python 3.9
 2021-06-26 12:53:28 +0000 - Fixed issue with CSRF protection
 2021-06-30 13:39:19 +0000 - Added error handling for edge case
+2021-07-02 14:27:27 +0000 - Added logging for debugging purposes
