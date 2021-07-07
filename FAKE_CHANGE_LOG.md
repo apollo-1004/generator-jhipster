@@ -90,3 +90,4 @@
 2021-07-03 16:27:26 +0000 - Implemented new UI design
 2021-07-07 17:42:53 +0000 - Implemented RESTful API endpoints
 2021-07-07 19:10:39 +0000 - Refactored database queries
+2021-07-07 18:00:37 +0000 - Fixed XSS vulnerability
