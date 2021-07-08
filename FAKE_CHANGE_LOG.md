@@ -91,3 +91,4 @@
 2021-07-07 17:42:53 +0000 - Implemented RESTful API endpoints
 2021-07-07 19:10:39 +0000 - Refactored database queries
 2021-07-07 18:00:37 +0000 - Fixed XSS vulnerability
+2021-07-08 10:43:58 +0000 - Resolved compatibility issues with Python 3.9
