@@ -95,3 +95,4 @@
 2021-07-08 20:39:32 +0000 - Fixed issue with memory
 2021-07-09 17:48:31 +0000 - Added support for Docker deployment
 2021-07-09 19:45:36 +0000 - Implemented client-side pagination
+2021-07-09 12:40:05 +0000 - Fixed issue with file permissions
