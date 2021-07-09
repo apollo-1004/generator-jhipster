@@ -94,3 +94,4 @@
 2021-07-08 10:43:58 +0000 - Resolved compatibility issues with Python 3.9
 2021-07-08 20:39:32 +0000 - Fixed issue with memory
 2021-07-09 17:48:31 +0000 - Added support for Docker deployment
+2021-07-09 19:45:36 +0000 - Implemented client-side pagination
