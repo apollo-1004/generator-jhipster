@@ -96,3 +96,4 @@
 2021-07-09 17:48:31 +0000 - Added support for Docker deployment
 2021-07-09 19:45:36 +0000 - Implemented client-side pagination
 2021-07-09 12:40:05 +0000 - Fixed issue with file permissions
+2021-07-12 18:26:24 +0000 - Optimized performance of sorting algorithm
