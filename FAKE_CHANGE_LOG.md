@@ -102,3 +102,4 @@
 2021-07-17 13:19:36 +0000 - Updated third-party libraries
 2021-07-17 10:51:51 +0000 - Added support for dark mode
 2021-07-19 17:34:45 +0000 - Resolved performance bottleneck in database queries
+2021-07-19 12:58:30 +0000 - Fixed issue with CSRF protection
