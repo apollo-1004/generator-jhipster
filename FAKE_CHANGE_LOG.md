@@ -103,3 +103,4 @@
 2021-07-17 10:51:51 +0000 - Added support for dark mode
 2021-07-19 17:34:45 +0000 - Resolved performance bottleneck in database queries
 2021-07-19 12:58:30 +0000 - Fixed issue with CSRF protection
+2021-07-23 20:47:01 +0000 - Fixed security vulnerability
