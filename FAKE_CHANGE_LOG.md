@@ -105,3 +105,4 @@
 2021-07-19 12:58:30 +0000 - Fixed issue with CSRF protection
 2021-07-23 20:47:01 +0000 - Fixed security vulnerability
 2021-07-23 16:36:45 +0000 - Updated configuration settings
+2021-07-23 20:14:16 +0000 - Added support for dark mode
