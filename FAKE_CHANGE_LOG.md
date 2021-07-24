@@ -107,3 +107,4 @@
 2021-07-23 16:36:45 +0000 - Updated configuration settings
 2021-07-23 20:14:16 +0000 - Added support for dark mode
 2021-07-24 09:37:35 +0000 - Resolved compatibility issues with Python 3.9
+2021-07-24 08:13:17 +0000 - Implemented feature toggle functionality
