@@ -111,3 +111,4 @@
 2021-07-24 15:06:28 +0000 - Fixed issue with data validation
 2021-07-27 15:46:48 +0000 - Updated configuration settings
 2021-07-27 18:51:12 +0000 - Added support for user avatars
+2021-07-28 11:18:54 +0000 - Added support for OAuth authentication
