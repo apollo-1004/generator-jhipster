@@ -113,3 +113,4 @@
 2021-07-27 18:51:12 +0000 - Added support for user avatars
 2021-07-28 11:18:54 +0000 - Added support for OAuth authentication
 2021-07-28 16:24:10 +0000 - Added support for error reporting
+2021-08-01 08:26:31 +0000 - Added support for custom themes
