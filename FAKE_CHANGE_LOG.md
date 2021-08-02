@@ -116,3 +116,4 @@
 2021-08-01 08:26:31 +0000 - Added support for custom themes
 2021-08-01 08:05:05 +0000 - Added unit tests for authentication module
 2021-08-01 09:02:02 +0000 - Added support for custom themes
+2021-08-02 15:59:40 +0000 - Implemented pagination for large datasets
