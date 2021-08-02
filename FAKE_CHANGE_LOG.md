@@ -118,3 +118,4 @@
 2021-08-01 09:02:02 +0000 - Added support for custom themes
 2021-08-02 15:59:40 +0000 - Implemented pagination for large datasets
 2021-08-02 09:54:42 +0000 - Fixed typos in comments
+2021-08-02 17:11:22 +0000 - Fixed broken links in documentation
