@@ -120,3 +120,4 @@
 2021-08-02 09:54:42 +0000 - Fixed typos in comments
 2021-08-02 17:11:22 +0000 - Fixed broken links in documentation
 2021-08-06 09:17:25 +0000 - Implemented password hashing for user authentication
+2021-08-06 17:55:11 +0000 - Implemented RESTful API endpoints
