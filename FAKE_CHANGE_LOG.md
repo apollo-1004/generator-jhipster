@@ -126,3 +126,4 @@
 2021-08-09 20:18:48 +0000 - Refactored code for better readability
 2021-08-09 12:17:59 +0000 - Fixed issue with CSRF protection
 2021-08-09 15:39:28 +0000 - Resolved merge conflicts
+2021-08-11 08:16:16 +0000 - Added unit tests for authentication module
