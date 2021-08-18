@@ -135,3 +135,4 @@
 2021-08-15 17:46:35 +0000 - Removed deprecated code
 2021-08-15 12:36:52 +0000 - Implemented client-side validation for forms
 2021-08-15 11:34:42 +0000 - Fixed issue with data validation
+2021-08-18 14:26:54 +0000 - Fixed issue with CSRF protection
