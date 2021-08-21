@@ -141,3 +141,4 @@
 2021-08-20 11:08:17 +0000 - Added support for custom themes
 2021-08-20 15:47:17 +0000 - Implemented new UI design
 2021-08-21 12:58:00 +0000 - Fixed issue with file downloads
+2021-08-21 15:17:50 +0000 - Implemented search functionality
