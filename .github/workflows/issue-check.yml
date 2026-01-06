@@ -63,7 +63,7 @@ jobs:
       - name: 'SETUP: environment'
         id: setup
         uses: ./generator-jhipster/.github/actions/setup
-      - uses: jhipster/actions/setup-runner@v0
+      - uses: jhipster/actions/setup-runner@v1
         with:
           node-version: ${{ steps.setup.outputs.node-version }}
           java-version: ${{ steps.setup.outputs.java-version }}
