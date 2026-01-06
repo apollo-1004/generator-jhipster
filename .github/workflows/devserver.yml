@@ -77,7 +77,7 @@ jobs:
         with:
           path: generator-jhipster
           fetch-depth: 2
-      - uses: jhipster/actions/setup-runner@v0
+      - uses: jhipster/actions/setup-runner@v1
         with:
           node-version: ${{ matrix.node-version }}
           java-version: ${{ matrix.java-version }}

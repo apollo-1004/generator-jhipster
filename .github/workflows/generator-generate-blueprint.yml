@@ -50,7 +50,7 @@ jobs:
         with:
           application-sample: ng-default
           executable: jhipster-foo
-      - uses: jhipster/actions/setup-runner@v0
+      - uses: jhipster/actions/setup-runner@v1
         with:
           node-version: ${{ steps.setup.outputs.node-version }}
           java-version: ${{ steps.setup.outputs.java-version }}
